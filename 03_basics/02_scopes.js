@@ -9,3 +9,14 @@ if (true){
 
 console.log(a);
 // console.log(b);
+
+
+function one(){
+    const username = "Virang"
+    function two(){
+        const website = "youtube"
+        console.log(username);
+    }
+    // console.log(website);
+    two()
+}
